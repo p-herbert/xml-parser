@@ -1,0 +1,22 @@
+{
+  "name": "parsexml",
+  "version": "1.0.0",
+  "description": "Parse XML string into a tree",
+  "main": "parseXML.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "parser",
+    "XML",
+    "tree"
+  ],
+  "author": "Peter Herbert",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-eslint": "^10.0.2",
+    "jest": "^24.8.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "env": {
+        "es6": true
+    },
+    "parser": "babel-eslint",
+    "plugins": ["prettier"],
+    "globals": {
+        "describe": true,
+        "test": true,
+        "expect": true
+    },
+    "rules": {
+        "prettier/prettier": "error"
+    }
+}
